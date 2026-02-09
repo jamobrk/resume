@@ -6,7 +6,7 @@
 ## Contact
  
 - Email: jpburke@mines.edu
-- Github: https://github.com/jamobrk
+- Github: [profile](https://github.com/jamobrk)
 
 ## Education
 
@@ -31,6 +31,6 @@
 
 ![Profile image](images/IMG_9385.jpg.jpeg)
 
+## Links
 
-
-
+- Department site: [Colorado School of Mines Geophysics](https://geophysics.mines.edu/)
